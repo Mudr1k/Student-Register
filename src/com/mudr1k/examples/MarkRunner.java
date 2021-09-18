@@ -56,16 +56,5 @@ public class MarkRunner {
         register.print();
         System.out.println("\n");
 
-//        register.convertToArrayList();
-
-
-//        ArrayList<Mark> list = new ArrayList<>() {{
-//                add(new Mark("Math", "Shevchenko", 5));
-//                add(new Mark("Math", "Mudrevsky", 4));
-//                add(new Mark("Math", "Shevchenko", 4));
-//                add(new Mark("Physics", "Ivanov", 3));
-//        }};
-//        Register register = new Register(list);
-//        register.print();
     }
 }
